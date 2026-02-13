@@ -48,7 +48,7 @@ You can provide **custom XML** files with available Label Product values. For th
 To make the default Label Report Wizard use this custom XML, enable the static DevExpress.Data.XtraReports.Labels.LabelWizardCustomization.ExternalLabelProductRepository property at the application startup.
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-label-report-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-label-report-in-code&~~~was_helpful=no)
 
